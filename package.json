@@ -1,11 +1,10 @@
 {
   "name": "vuepressSample",
   "version": "0.0.1",
-  "description": "Sample of Vue-press",
+  "description": "むらさんのサイトです",
   "main": "index.js",
   "authors": {
-    "name": "Murasan",
-    "email": "murakote@gmail.com"
+    "name": "Murasan"
   },
   "repository": "/vuepressSample",
   "scripts": {
