@@ -32,6 +32,9 @@ module.exports = {
     docsDir: '',
     editLinkText: 'Edit',
     lastUpdated: true,
+    search: false,
+    smoothScroll: true,
+    sidebar: 'auto',
     nav: [
       {
         text: 'Guide',
@@ -41,10 +44,7 @@ module.exports = {
         text: 'Config',
         link: '/config/'
       }
-    ],
-    search: false,
-    smoothScroll: true,
-    sidebar: 'auto'
+    ]
   },
 
   /**
