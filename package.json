@@ -1,0 +1,19 @@
+{
+  "name": "vuepressSample",
+  "version": "0.0.1",
+  "description": "Sample of Vue-press",
+  "main": "index.js",
+  "authors": {
+    "name": "Murasan",
+    "email": "murakote@gmail.com"
+  },
+  "repository": "/vuepressSample",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
