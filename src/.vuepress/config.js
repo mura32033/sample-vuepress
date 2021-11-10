@@ -43,12 +43,12 @@ module.exports = {
     sidebar: 'auto',
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: '紹介',
+        link: '/intro/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'ノート',
+        link: '/notebook/'
       }
     ]
   },
