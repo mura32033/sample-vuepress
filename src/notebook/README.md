@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Config
+# いろいろ <Badge text="beta" type="warning"/> <Badge text="default theme"/>
 
 [[toc]]
 
