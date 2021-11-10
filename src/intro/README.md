@@ -6,4 +6,4 @@
 
 いろんなCMSに挑戦。
 
-[Nuxt CMS](https://admiring-hodgkin-16d00e.netlify.app/)
+[Netlify CMS](https://admiring-hodgkin-16d00e.netlify.app/)
