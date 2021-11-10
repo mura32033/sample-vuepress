@@ -42,20 +42,8 @@ module.exports = {
         link: '/config/'
       }
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-      search: false,
-      smoothScroll: true,
-    }
+    search: false,
+    smoothScroll: true,
   },
 
   /**
