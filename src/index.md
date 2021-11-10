@@ -1,8 +1,7 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Sample of Vue-press
-actionText: Quick Start →
+tagline: ようこそ、むらさんのサイトへ。
+actionText: 紹介
 actionLink: /guide/
 features:
 - title: Feature 1 Title
@@ -11,5 +10,5 @@ features:
   details: Feature 2 Description
 - title: Feature 3 Title
   details: Feature 3 Description
-footer: Made by Murasan with ❤️
+footer: 2021年
 ---
