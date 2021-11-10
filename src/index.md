@@ -1,8 +1,6 @@
 ---
 home: true
 tagline: ようこそ、むらさんのサイトへ。
-actionText: 紹介
-actionLink: /guide/
 features:
 - title: Feature 1 Title
   details: Feature 1 Description
