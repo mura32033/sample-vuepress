@@ -44,6 +44,7 @@ module.exports = {
     ],
     search: false,
     smoothScroll: true,
+    sidebar: 'auto'
   },
 
   /**
